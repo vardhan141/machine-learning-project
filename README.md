@@ -1,11 +1,11 @@
 final machine learning project
 Heart disease prediction using machine learning
-Project members:
-Konyala Sai Vardhan Reddy
-700745733
-Mythresh Maddina
-700741162
-Eda Sai Akhil
-700747481
-Stuthi Geetha Muppalla
-700745858
+Project members:<br />
+Konyala Sai Vardhan Reddy<br />
+700745733<br />
+Mythresh Maddina<br />
+700741162<br />
+Eda Sai Akhil<br />
+700747481<br />
+Stuthi Geetha Muppalla<br />
+700745858<br />
