@@ -1,5 +1,5 @@
 final machine learning project
-Heart disease prediction using machine learning
+Heart disease prediction using machine learning <br>
 Project members:<br />
 Konyala Sai Vardhan Reddy 700745733<br />
 Mythresh Maddina 700741162<br />
