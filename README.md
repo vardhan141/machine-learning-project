@@ -1,4 +1,4 @@
-final machine learning project
+Final machine learning project<br>
 Heart disease prediction using machine learning <br>
 Project members:<br />
 Konyala Sai Vardhan Reddy 700745733<br />
